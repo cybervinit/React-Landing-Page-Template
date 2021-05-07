@@ -1,6 +1,5 @@
 {
     "Header": {
-
         "title": "We are SharkSquad",
         "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
 
@@ -106,9 +105,9 @@
     ],
     "Contact": {
         "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
-        "facebook": "fb.com",
+        "phone": "+1 416 930 9869",
+        "email": "info@sharksquad.io",
+        "linkedin": "https://linkedin.com/in/vinitsoni",
         "twitter": "twitter.com",
         "youtube": "youtube.com"
     },
